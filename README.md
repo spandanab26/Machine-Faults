@@ -1,2 +1,3 @@
-# Machine-Faults
-An application-oriented project that applies machine learning techniques to predict and detect faults in industrial machines. The system leverages datasets, algorithms, and model training to enable automated fault detection, supporting predictive maintenance and reducing downtime. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:3201d465bfa37210e55dda41673ce72a08e6f3b9b1ee3a9e1380c469ac91529e
+size 302
