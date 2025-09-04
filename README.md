@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3201d465bfa37210e55dda41673ce72a08e6f3b9b1ee3a9e1380c469ac91529e
-size 302
+# Machine Faults
+
+The project aims to detect the faults in industrial machines and categorize the faults based on key features. This detection helps to track faults and manage the downtime of machines.
+
+## To run the project
+
+download the file
+
+change the directory to the project file in command prompt
+
+run the command:
+python app.py
